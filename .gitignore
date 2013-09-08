@@ -1,0 +1,12 @@
+## I dunno why...?
+.gitmodules
+
+## Omitted by project specification
+.htaccess
+application/cache/*
+system/.htaccess
+system/*
+
+## Some people keep a clone of the wiki for editing...
+.idea/*
+
